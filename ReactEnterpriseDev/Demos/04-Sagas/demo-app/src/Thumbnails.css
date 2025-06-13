@@ -1,0 +1,12 @@
+img {
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+img.large {
+    width: 200px
+}
+
+img.small {
+    width: 100px
+}
